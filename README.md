@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joe
-- 👀 I’m interested in ui-designs
-- 🌱 I’m currently learning ui/ux
-- 💞️ I’m looking to collaborate on some ui/ux projects
+- 👀 I’m a data_analyst
+- 💞️ I’m looking to collaborate on some projects
 - 📫 You can reach me on instagram and twitter @joegbonjubola
 
 <!---
